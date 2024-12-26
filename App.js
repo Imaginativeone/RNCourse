@@ -3,6 +3,7 @@ import { StyleSheet, Text, View, Button, TextInput } from 'react-native';
 
 export default function App() {
   return (
+    // No changes for Video 007
     <View style={styles.appContainer}>
       <View>
         <TextInput placeholder='Your course goal!'></TextInput>
